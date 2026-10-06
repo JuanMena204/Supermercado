@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{document.querySelectorAll('a[href*="eliminar"]').forEach(a=>a.addEventListener('click',e=>{if(!confirm('¿Está seguro de realizar esta acción?'))e.preventDefault()}));});
