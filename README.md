@@ -3,7 +3,7 @@
 MVP de la Fase II del proyecto de Ingeniería del Software 3.
 
 ## Datos académicos
-- Estudiante: Juan Esteban Mena Machuca
+- Estudiantes: Juan Esteban Mena Machuca-Andres Mauricio Restrepo
 - Institución: Corporación Universitaria Remington
 - Programa: Ingeniería de Sistemas
 - Asignatura: Ingeniería del Software 3
